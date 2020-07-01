@@ -1,0 +1,7 @@
+body {
+  font-family: sans-serif;
+}
+
+#draw-area {
+  background-color: rgba(255, 255, 128, 0.5); /* 発展2 */
+}
